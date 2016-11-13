@@ -16,6 +16,10 @@ strong {
   background: #e16879;
 }
 
+.navbar-brand {
+  color: #ff0000;
+}
+
 .btn {
   font-weight: 300;
 }
